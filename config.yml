@@ -41,12 +41,21 @@ galaxy_arms:
       - "Python"
       - "C#"
       - "Java"
+      - "C"
+  - name: "Database"
+    color: "dendrite_violet"
+    items: 
+      - "Postgres"
+      - "MongoDB"
+      - "MySQL"
+      - "Redis"
   - name: "DevOps"
     color: "axon_amber"
     items:
       - "Docker"
       - "Kubernetes"
       - "AWS"
+      - "Azure"
       - "Linux"
 
 # Featured projects shown as constellation stars
@@ -89,6 +98,7 @@ languages:
   exclude:                     # Languages to hide from the telemetry chart
     - "HTML"
     - "CSS"
+    - "SCSS"
     - "Shell"
     - "Makefile"
   max_display: 8               # Maximum number of languages to show
