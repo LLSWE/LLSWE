@@ -52,11 +52,11 @@ galaxy_arms:
   - name: "DevOps"
     color: "axon_amber"
     items:
+      - "Linux"
       - "Docker"
       - "Kubernetes"
       - "AWS"
       - "Azure"
-      - "Linux"
 
 # Featured projects shown as constellation stars
 # Each project needs:
