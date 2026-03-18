@@ -19,7 +19,7 @@ profile:
   company: "Ketsu"
   location: "Brasília DF"
   bio: |
-    Design Complex Systems
+      Rewrite in Rust
   philosophy: '"Git merge never rebase"'
 
 # Social links displayed at the bottom of the profile
@@ -99,7 +99,8 @@ languages:
     - "HTML"
     - "CSS"
     - "SCSS"
-    - "Javascript"
+    - "JS" 
+    - "Javascript" # try fix
     - "Shell"
     - "Makefile"
   max_display: 8 # Maximum number of languages to show
