@@ -26,7 +26,7 @@ profile:
 social:
   email: "tiilas777@gmail.com"
   linkedin: "linkedin/in/luiseduardodev"
-  website: "ketsuon.com.br"
+  website: "ketsu.dev"
 
 # Galaxy arms represent your core focus areas
 # Each arm spirals out from the center with its own color and tech items
@@ -37,11 +37,12 @@ galaxy_arms:
     items:
       - "Rust"
       - "Go"
+      - "C"
+      - "C++"
       - "Typescript"
       - "Python"
       - "C#"
       - "Java"
-      - "C"
   - name: "Database"
     color: "dendrite_violet"
     items:
@@ -54,6 +55,7 @@ galaxy_arms:
     items:
       - "Linux"
       - "Docker"
+      - "Nginx"
       - "Kubernetes"
       - "AWS"
       - "Azure"
