@@ -36,13 +36,11 @@ galaxy_arms:
     color: "synapse_cyan"
     items:
       - "Rust"
+      - "C/C++"
+      - "OCaml"
       - "Go"
-      - "C"
-      - "C++"
       - "Typescript"
       - "Python"
-      - "C#"
-      - "Java"
   - name: "Database"
     color: "dendrite_violet"
     items:
