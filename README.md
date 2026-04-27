@@ -7,9 +7,9 @@
   <img src="./assets/generated/2(1).gif" width="850" alt="Ketsu Header"/>
 </div>
 
-<div align="center">
+<!--<div align="center">
   <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
-</div>
+</div> -->
 
 <br/>
 
