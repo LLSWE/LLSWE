@@ -4,7 +4,7 @@
      The SVG paths below point to assets/generated/ which are auto-generated
      by the GitHub Actions workflow or by running: python -m generator.main -->
 <div align="center">
-  <img src="./assets/2(1).gif" width="850" alt="Ketsu Header"/>
+  <img src="./assets/generated/2(1).gif" width="850" alt="Ketsu Header"/>
 </div>
 
 <div align="center">
