@@ -34,7 +34,6 @@
 
 Building backend and designing complex systems, passionate about the low level & open source
 
-**Currently at*** Ketsu , Brasília/DF 
 </details>
 
 <br/>
